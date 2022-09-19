@@ -16,6 +16,9 @@ Aspiring data analyst with a strong math and statistics background and extensive
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src=https://th.bing.com/th/id/OIP.LxoJCJCYSckgxvAcKHJvbAHaIG?w=160&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.qiHO7gbnHz5I32bc1tK3WQHaBe?w=334&h=69&c=7&r=0&o=5&dpr=1.25&pid=1.7" alt="matplotlib" width="80" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.uIsmr8ut68vYUpDcA6FZ7AHaEK?w=299&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" alt="seaborn" width="140" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.b3P4rdrVHMIHbhQXnwRVewHaCd?w=339&h=116&c=7&r=0&o=5&dpr=1.25&pid=1.7" alt="pandas" width="140" height="40"/></a>
+
+
+</p>
 
 
