@@ -9,7 +9,7 @@ Aspiring data analyst with a strong math and statistics background and extensive
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://https://www.linkedin.com/in/abdul-rayan-5a03411a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdeGQEix%2BR7edfSKDeEBKFw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-nizam-20250b202" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/abdul-rayan-5a03411a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdeGQEix%2BR7edfSKDeEBKFw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul rayan2" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_itsnizam_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itsnizam_096" height="30" width="40" /></a>
 </p>
 <hr />
