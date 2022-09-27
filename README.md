@@ -5,11 +5,16 @@
 
 
 Aspiring data analyst with a strong math and statistics background and extensive experience analyzing data through rigorous course work. Over two years of academic experience using data analysis software such as R and Python as well as experience wrangling data in Microsoft Excel. A self-starter who can dig into the technical details but also has no problem explaining things to non-technical stakeholders.
+<p align="left">
+<a href="https://app.daily.dev/AbdulRayan"><img src="https://api.daily.dev/devcards/d0884c244f2f4d738a324fdb76cbe8c3.png?r=89j" width="400" alt="Abdul Rayan's Dev Card"/></p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/abdul-rayan-5a03411a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul rayan" height="30" width="40" /></a>
+  
 
 </p>
 <hr />
