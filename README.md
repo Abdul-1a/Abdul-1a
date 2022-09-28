@@ -8,12 +8,25 @@ Aspiring data analyst with a strong math and statistics background and extensive
 <p align="left">
 <a href="https://app.daily.dev/AbdulRayan"><img src="https://api.daily.dev/devcards/d0884c244f2f4d738a324fdb76cbe8c3.png?r=89j" width="400" alt="Abdul Rayan's Dev Card"/></p>
 
+<h2 align="left"> <img src="https://linksinternational.com/wp-content/uploads/2020/09/Tableau-Logo.png" width="140px" height="60px">Tableau Certificate</h2>
+<ul>
+<li> <a href="https://simpli-web.app.link/e/vbpa9ei0Gtbalt="<b> Certificate code :3810798 Tableau Training</b> </a>  
+
+</ul>
+<hr />
+
+
+
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abdul-rayan-5a03411a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul rayan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdul-rayan-5a03411a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul rayan" height="40" width="140" /></a>
   
 
 </p>
