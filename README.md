@@ -10,7 +10,7 @@ Aspiring data analyst with a strong math and statistics background and extensive
 
 <h2 align="left"> <img src="https://linksinternational.com/wp-content/uploads/2020/09/Tableau-Logo.png" width="140px" height="60px">Tableau Certificate</h2>
 <ul>
-<li> <a href="https://simpli-web.app.link/e/vbpa9ei0Gtbalt="<b> Certificate code :3810798 Tableau Training</b> </a>  
+<li> <a href="https://simpli-web.app.link/e/t0A4vuO3Gtb" <b>3810798:Tableau Training</b> </a>  
 
 </ul>
 <hr />
